@@ -1,0 +1,79 @@
+{
+  "glm-1.1.1": {
+    "url": "https://github.com/stavenko/nim-glm",
+    "rev": "c30414e241ad7fde9abc4f1dc7185268c4bbdbcd",
+    "date": "2018-07-15T01:02:02+02:00",
+    "path": "/nix/store/kmcxdl5qlmgh93s9cjari31j2gzhps16-nim-glm-c30414e",
+    "sha256": "0jm5x8zhyjs8g9sndp33rmbvh34ld5828m6c8v5aw10v75cr11bb",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "nimgl-1.3.2": {
+    "url": "https://github.com/nimgl/nimgl",
+    "rev": "309d6ed8164ad184ed5bbb171c9f3d9d1c11ff81",
+    "date": "2021-08-24T16:04:58-05:00",
+    "path": "/nix/store/q12dfjqgbddim789n6g4qif9gpxhd0kl-nimgl",
+    "sha256": "0mp93bfjxjcilpgpvnijvjaxx1sd142v1i8c2iqxa1776c7b94fd",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "illwave-0.6.0": {
+    "url": "https://github.com/ansiwave/illwave",
+    "rev": "7558f89925f7c10e52559c80b26c7c090433a5c2",
+    "date": "2022-12-20T16:32:43-05:00",
+    "path": "/nix/store/v4wa3i60kvh9c59sv4hz4pibhpvq18jj-illwave",
+    "sha256": "0kg1db6il7q5kd81gvfgij0mipmxankm47fx2bjn9v2iacvbfqln",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "paratext-0.13.0": {
+    "url": "https://github.com/paranim/paratext",
+    "rev": "a88675ea691b63a5fba8067fa9b2aa54644978c1",
+    "date": "2022-05-03T11:35:15+02:00",
+    "path": "/nix/store/r2xgg1q4qz7ayappn6axzff8zpjpd2zk-paratext",
+    "sha256": "1zc639ysvarg8idvxcqqm5j65pmfbwik1p3i88zb7pvdlh9hjwj9",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "nimwave-1.2.0": {
+    "url": "https://github.com/ansiwave/nimwave",
+    "rev": "5a25abbd7c1b2a6a6a9222d4085b102c498f07ef",
+    "date": "2023-02-16T18:11:55-05:00",
+    "path": "/nix/store/a49914j4dl6p0yns33v5j6g649dmn5y7-nimwave",
+    "sha256": "0f1rnxb4895k7z36ynh0gv9w6qm43ch6c1pqyb72kp38h9mqmcxb",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "paranim-0.12.0": {
+    "url": "https://github.com/paranim/paranim",
+    "rev": "fa0f884851106ab25196e0d5654fc6f586bf9ed7",
+    "date": "2022-12-15T08:31:49-05:00",
+    "path": "/nix/store/hgvsp9pn3l1av8xpdqrswd9aad95v96v-paranim",
+    "sha256": "0f2zziv5b7lnnd4dp59farylprnj7jprp7zxvxzcqsyk38bfpbwp",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "ansiutils-0.2.0": {
+    "url": "https://github.com/ansiwave/ansiutils",
+    "rev": "65811c1556cd103a060dcf0e08d2d5090633b8fd",
+    "date": "2022-12-22T08:41:24-05:00",
+    "path": "/nix/store/sh4r2wkjffqn3lpsrrwgldw6cy1ssly3-ansiutils",
+    "sha256": "15b34rwni02ci6cqdcakp0marzh45wa6ppihgqcykqm921i0n5bs",
+    "fetchLFS": false,
+    "fetchSubmodules": true,
+    "deepClone": false,
+    "leaveDotGit": false
+  }
+}
